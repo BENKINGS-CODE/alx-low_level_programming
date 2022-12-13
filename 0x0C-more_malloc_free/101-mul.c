@@ -228,5 +228,6 @@ int main(int argc, char *argv[])
 	free(next_prod);
 	free(final_prod);
 
+	B
 	return (0);
 }
